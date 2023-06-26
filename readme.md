@@ -15,11 +15,14 @@
 <p>Client: React,...</p>
 <p>Server: Express.js, Mongodb,...</p>
 <p>Demo:</p>
-![Login](https://github.com/cuonglexuan203/the-bus-ticket-booking-management-system/blob/main/demo/loginPage.png?raw=true)
+<br/>
+![Login](https://github.com/cuonglexuan203/sociopedia-social-network/blob/main/demo/loginPage.png?raw=true)
 <b>Login Page</b>
-![Home](https://github.com/cuonglexuan203/the-bus-ticket-booking-management-system/blob/main/demo/homePage.png?raw=true)
+<br/>
+![Home](https://github.com/cuonglexuan203/sociopedia-social-network/blob/main/demo/homePage.png?raw=true)
 <b>Home Page</b>
-![Profile](https://github.com/cuonglexuan203/the-bus-ticket-booking-management-system/blob/main/demo/profilePage.png?raw=true)
+<br/>
+![Profile](https://github.com/cuonglexuan203/sociopedia-social-network/blob/main/demo/profilePage.png?raw=true)
 <b>Profile Page</b>
 
 

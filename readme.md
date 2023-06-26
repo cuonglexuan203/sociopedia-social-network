@@ -1,4 +1,4 @@
-Project <h1>Sociopedia</h1>
+<h1>Sociopedia Project</h1>
 <br />
 <b>Step by step to run:</b>
 <ul>
@@ -16,8 +16,15 @@ Project <h1>Sociopedia</h1>
 <p>Server: Express.js, Mongodb,...</p>
 <p>Demo:</p>
 
-![Intro](https://github.com/cuonglexuan203/the-bus-ticket-booking-management-system/blob/main/Demo/login.png?raw=true)
-![Home](https://github.com/cuonglexuan203/the-bus-ticket-booking-management-system/blob/main/Demo/home.png?raw=true)
-![About Us](https://github.com/cuonglexuan203/the-bus-ticket-booking-management-system/blob/main/Demo/aboutus.png?raw=true)
+![Login](https://github.com/cuonglexuan203/sociopedia-social-network/blob/main/demo/loginPage.png?raw=true)
+<b>Login Page</b>
+<br/>
+
+![Home](https://github.com/cuonglexuan203/sociopedia-social-network/blob/main/demo/homePage.png?raw=true)
+<b>Home Page</b>
+<br/>
+
+![Profile](https://github.com/cuonglexuan203/sociopedia-social-network/blob/main/demo/profilePage.png?raw=true)
+<b>Profile Page</b>
 
 

@@ -1,4 +1,4 @@
-<h1>Sociopedia Project</h1>
+Project: <h1>Sociopedia</h1>
 <br />
 <b>Step by step to run:</b>
 <ul>
@@ -15,7 +15,6 @@
 <p>Client: React,...</p>
 <p>Server: Express.js, Mongodb,...</p>
 <p>Demo:</p>
-<br/>
 ![Intro](https://github.com/cuonglexuan203/the-bus-ticket-booking-management-system/blob/main/Demo/login.png?raw=true)
 ![Home](https://github.com/cuonglexuan203/the-bus-ticket-booking-management-system/blob/main/Demo/home.png?raw=true)
 ![About Us](https://github.com/cuonglexuan203/the-bus-ticket-booking-management-system/blob/main/Demo/aboutus.png?raw=true)
